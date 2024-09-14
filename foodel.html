@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FOODEL</title>
+        <link rel="icon" href="download (1).png">
+    </head>
+    <body bgcolor="orange">
+<h1>
+    HUNGRY?
+</h1>
+<div class="scrollmenu">
+    <a href="#home">Home</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+  </div>
+<hr color="black">
+<br>
+<div class="one">
+    <ul>
+        <li>RESTAURANTS</li>
+        <li>INSTAMARTS</li>
+        <li>GROCERY</li>
+    </ul>
+</div>
+<div class="two">
+    <ul>
+        <li><a  href="file:///D:/visual%20studio/html/dongle.html"><img src="download.jpeg" alt= "Must-Try-In-Tamil-Nadu"width="100px"></a></li>
+        <li><a  href="file:///D:/visual%20studio/html/dongle.html"><img src="Must-Try-In-Tamil-Nadu.png"alt="Must-Try-In-Tamil-Nadu"width="100px"></a></li>
+        <li><a  href="file:///D:/visual%20studio/html/dongle.html"><img src="RFO-1400x919-classic-chocolate-mousse-69ef9c9c-5bfb-4750-80e1-31aafbd80821-0-1400x919.jpg" alt= "RFO-1400x919-classic-chocolate-mousse-69ef9c9c-5bfb-4750-80e1-31aafbd80821-0-1400x919"width="100px"></a></li>
+    </ul>
+    </div>
+<h2>what's on your mind?</h2>
+<div class="three">
+    <ul>
+        <li><a  href="file:///D:/visual%20studio/html/dongle.html"><img class="t1"src="Poori.avif" alt= "Must-Try-In-Tamil-Nadu"width="100px"></a></li>
+        <li><a  href="file:///D:/visual%20studio/html/dongle.html"><img class="t2" src="Idli.avif"alt="Must-Try-In-Tamil-Nadu"width="100px"></a></li>
+        <li><a  href="file:///D:/visual%20studio/html/dongle.html"><img class="t3"src="Appam.avif" alt= "RFO-1400x919-classic-chocolate-mousse-69ef9c9c-5bfb-4750-80e1-31aafbd80821-0-1400x919"width="100px"></a></li>
+    </ul>
+</div>
+    </body>
+</html>
